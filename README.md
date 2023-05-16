@@ -6,8 +6,9 @@
 
 </p>
 
-![homePage](<img width="1349" alt="Screenshot 2023-05-16 at 1 04 07 AM" src="https://github.com/JielinWang/3d-portfolio/assets/94776104/2ff3fb72-d776-4d89-a605-fc1aabdbfff9">
-)
+## HomePage
+<img width="1349" alt="Screenshot 2023-05-16 at 1 04 07 AM" src="https://github.com/JielinWang/3d-portfolio/assets/94776104/5badd30e-9873-426a-a89d-6f771758baae">
+
 
 
 <p>
