@@ -2,7 +2,7 @@
 
 <p>Hey! Im <b>Jielin Wang</b>, a Software Developer ready for challenges.Start by saying hi! :arrow_right:
 
-  <a href="[https://portfolio-jielinwang.vercel.app/](https://www.jielinwang.us/)"> My portfolio website</a>
+  <a href="(https://www.jielinwang.us/)"> My portfolio website</a>
 
 </p>
 
