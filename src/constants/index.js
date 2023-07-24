@@ -20,6 +20,7 @@ import {
   schoolds54,
   renmin,
   upwork,
+  caxy,
   // meta,
   // starbucks,
   // tesla,
@@ -121,21 +122,32 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Developer Intern",
+    company_name: "Caxy Interactive",
+    icon: caxy,
+    iconBg: "#E6DEDD",
+    date: "July 2023 - Present",
+    points: [
+      "Collaborated in the development of key features for full-stack web applications using cutting-edge technologies such as React, TypeScript, NodeJS, NestJS, GraphQL, and Apollo, ensuring alignment with project specifications ",
+      "Actively participated in Agile development workflow, engaging in daily stand-ups, scrum meetings, architectural planning, pair programming, and code review sessions to maintain project efficiency and code quality",
+      "Enhanced software engineering skills through hands-on mentorship from experienced senior developers and a commitment to continuous learning, with React and NodeJS-based technology stacks",
+    ],
+  },
+  {
     title: "Web Developer",
     company_name: "Upwork",
     icon: upwork,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2023 - June 2023",
     points: [
-      "Develop and maintain websites using programming languages such as HTML, CSS, and JavaScript, and frameworks like React.js and other related technologies.",
-      "Collaborate with designers, content creators, and other team members to optimize website and application performance.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to clients.",
+      "Developed dynamic and interactive web applications using modern frameworks like React, node, and Express.js, creating user-engaging and responsive designs that contributed to increased conversions",
+      "Collaborated closely with clients to identify their business needs, gathered requirements, and translated them into technical specifications. Successfully delivered projects within established timelines and budget constraints, ensuring client satisfaction",
+      "Implemented search engine optimization (SEO) techniques to optimize websites, resulting in significant organic traffic growth and improved online visibility for clients' businesses",
     ],
   },
   {
     title: "Frontend/Web Developer",
-    company_name: "MIT Full Stack Development with MERN",
+    company_name: "MIT Full Stack Development (MERN)",
     icon: mit,
     iconBg: "#E6DEDD",
     date: "January 2022 - November 2022",

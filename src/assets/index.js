@@ -31,6 +31,7 @@ import mit from "./company/mit.png";
 import schoolds54 from "./company/schoolds54.png";
 import renmin from "./company/renmin.png";
 import upwork from "./company/upwork.png";
+import caxy from "./company/caxy.png";
 
 import aigeneration from "./aigeneration.png";
 import jwbank from "./jwbank.png";
@@ -62,6 +63,7 @@ export {
   schoolds54,
   renmin,
   upwork,
+  caxy,
   // meta,
   // shopify,
   // starbucks,
